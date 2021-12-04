@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "by_pyo3",
+    "try_axum",
 ]
